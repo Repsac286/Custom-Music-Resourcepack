@@ -1,0 +1,528 @@
+{
+	"music.bfg_division": {
+		"sounds": [
+		"custom:music/mick_gordon-bfg_division"]
+	},
+	"music.the_only_thing_they_fear_is_you":{
+		"sounds": [
+		"custom:music/mick_gordon-the_only_thing_they_fear_is_you"]
+	},
+	"music.vega_core":{
+		"sounds": [
+		"custom:music/mick_gordon-vega_core"]
+	},
+	"music.mastermind":{
+		"sounds": [
+		"custom:music/mick_gordon-mastermind"]
+	},
+	"music.doom_2016_menu_theme":{
+		"sounds": [
+		"custom:music/mick_gordon-doom_2016_menu_theme"]
+	},
+	"music.doom_eternal_main_theme":{
+		"sounds": [
+		"custom:music/mick_gordon-doom_eternal_main_theme"]
+	},
+	"music.chlorine":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-chlorine"]
+	},
+	"music.car_radio":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-car_radio"]
+	},
+	"music.heavydirtysoul":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-heavydirtysoul"]
+	},
+	"music.level_of_concern":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-level_of_concern"]
+	},
+	"music.tear_in_my_heart":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-tear_in_my_heart"]
+	},
+	"music.holding_on_to_you":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-holding_on_to_you"]
+	},
+	"music.oh_ms_believer":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-oh_ms_believer"]
+	},
+	"music.choker":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-choker"]
+	},
+	"music.levitate":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-levitate"]
+	},
+	"music.nico_and_the_niners":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-nico_and_the_niners"]
+	},
+	"music.jumpsuit":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-jumpsuit"]
+	},
+	"music.ode_to_sleep":{
+		"sounds": [
+		"custom:music/twenty_one_pilots-ode_to_sleep"]
+	},
+	"music.herald_of_darkness":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-herald_of_darkness"]
+	},
+	"music.dark_ocean_summoning":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-dark_ocean_summoning"]
+	},
+	"music.angers_remorse":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-angers_remorse"]
+	},
+	"music.the_poet_and_the_muse":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-the_poet_and_the_muse"]
+	},
+	"music.children_of_the_elder_god":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-children_of_the_elder_god"]
+	},
+	"music.take_control":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-take_control"]
+	},
+	"music.the_sea_of_night":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-the_sea_of_night"]
+	},
+		"music.balance_slays_the_demon":{
+		"sounds": [
+		"custom:music/old_gods_of_asgard-balance_slays_the_demon"]
+	},
+	"music.time_in_a_bottle":{
+		"sounds": [
+		"custom:music/time-in-a-bottle"]
+	},
+	"music.perception_check":{
+		"sounds": [
+		"custom:music/tom_cardy-perception_check"]
+	},
+	"music.captive_normals":{
+		"sounds": [
+		"custom:music/the_glass_pyramids-captive_normals"]
+	},
+	"music.in_a_blink":{
+		"sounds": [
+		"custom:music/the_glass_pyramids-in_a_blink"]
+	},
+	"music.my_heart_feels_no_pain":{
+		"sounds": [
+		"custom:music/the_glass_pyramids-my_heart_feels_no_pain"]
+	},
+	"music.the_beacon":{
+		"sounds": [
+		"custom:music/the_glass_pyramids-the_beacon"]
+	},
+	"music.too_big_to_fail":{
+		"sounds": [
+		"custom:music/the_glass_pyramids-too_big_to_fail"]
+	},
+	"music.whirring":{
+		"sounds": [
+		"custom:music/the_joy_formidable-whirring"]
+	},
+	"music.lonely_boy":{
+		"sounds": [
+		"custom:music/the_black_keys-lonely_boy"]
+	},
+	"music.little_black_submarines":{
+		"sounds": [
+		"custom:music/the_black_keys-little_black_submarines"]
+	},
+	"music.angel":{
+		"sounds": [
+		"custom:music/poets_of_the_fall-angel"]
+	},
+	"music.carnival_of_rust":{
+		"sounds": [
+		"custom:music/poets_of_the_fall-carnival_of_rust"]
+	},
+	"music.my_dark_disquiet":{
+		"sounds": [
+		"custom:music/poets_of_the_fall-my_dark_disquiet"]
+	},
+	"music.video_games":{
+		"sounds": [
+		"custom:music/tenacious_d-video_games"]
+	},
+	"music.revenge":{
+		"sounds": [
+		"custom:music/revenge"]
+	},
+	"music.hl2-cp_violation":{
+		"sounds": [
+		"custom:music/hl2-cp_violation"]
+	},
+	"music.you_are_my_sunshine":{
+		"sounds": [
+		"custom:music/the_dead_south-you_are_my_sunshine"]
+	},
+	"music.arms_tonite":{
+		"sounds": [
+		"custom:music/mother_mother-arms_tonite"]
+	},
+	"music.heyloft_1_and_2":{
+		"sounds": [
+		"custom:music/mother_mother-hayloft_1_and_2"]
+	},
+	"music.oh_ana":{
+		"sounds": [
+		"custom:music/mother_mother-oh_ana"]
+	},
+	"music.the_law":{
+		"sounds": [
+		"custom:music/reach-the_law"]
+	},
+	"music.sensory_deprivation":{
+		"sounds": [
+		"custom:music/vivivivivi-sensory_deprivation"]
+	},
+	"music.three_heads":{
+		"sounds": [
+		"custom:music/jean_dawson-three_heads"]
+	},
+	"music.seek":{
+		"sounds": [
+		"custom:music/among_us-seek"]
+	},
+	"music.fuck_you_im_going_underground":{
+		"sounds": [
+		"custom:music/grand_commander-fuck_you_im_going_underground"]
+	},
+	"music.delirium_tremendous":{
+		"sounds": [
+		"custom:music/delirium_tremendous"]
+	},
+	"music.creature":{
+		"sounds": [
+		"custom:music/halfalive-creature"]
+	},
+	"music.in_hell_ill_be_in_good_company":{
+		"sounds": [
+		"custom:music/the_dead_south-in_hell_ill_be_in_good_company"]
+	},
+	"music.all_eyes_on_me":{
+		"sounds": [
+		"custom:music/fox_stevenson-all_eyes_on_me"]
+	},
+	"music.dreamland":{
+		"sounds": [
+		"custom:music/fox_stevenson-dreamland"]
+	},
+	"music.enemy_brain":{
+		"sounds": [
+		"custom:music/fox_stevenson-enemy_brain"]
+	},
+	"music.get_through":{
+		"sounds": [
+		"custom:music/fox_stevenson-get_through"]
+	},
+	"music.human_in_the_evening":{
+		"sounds": [
+		"custom:music/fox_stevenson-human_in_the_evening"]
+	},
+	"music.like_that":{
+		"sounds": [
+		"custom:music/fox_stevenson-like_that"]
+	},
+	"music.still_here":{
+		"sounds": [
+		"custom:music/fox_stevenson-still_here"]
+	},
+	"music.victory_over_truth":{
+		"sounds": [
+		"custom:music/fox_stevenson-victory_over_truth"]
+	},
+	"music.break_the_rules":{
+		"sounds": [
+		"custom:music/simon_viklund-break_the_rules"]
+	},
+	"music.steal_from_the_rich_give_to_myself":{
+		"sounds": [
+		"custom:music/simon_viklund-steal_from_the_rich_give_to_myself"]
+	},
+	"music.razormind":{
+		"sounds": [
+		"custom:music/simon_viklund-razormind"]
+	},
+	"music.the_moss":{
+		"sounds": [
+		"custom:music/cosmo_sheldrake-the_moss"]
+	},
+	"music.fish_in_a_birdcage":{
+		"sounds": [
+		"custom:music/fish_in_a_birdcage"]
+	},
+	"music.soldier_poet_king":{
+		"sounds": [
+		"custom:music/the_oh_hellos-soldier_poet_king"]
+	},
+	"music.the_devil_wears_a_suit_and_tie":{
+		"sounds": [
+		"custom:music/colter_wall-the_devil_wears_a_suit_and_tie"]
+	},
+	"music.wednesday":{
+		"sounds": [
+		"custom:music/ethan_gander-wednesday"]
+	},
+	"music.i_am_a_stone":{
+		"sounds": [
+		"custom:music/i_am_a_stone"]
+	},
+	"music.rises_the_moon":{
+		"sounds": [
+		"custom:music/rises_the_moon"]
+	},
+	"music.passing_through":{
+		"sounds": [
+		"custom:music/passing_through"]
+	},
+	"music.i_am_just_a_fish":{
+		"sounds": [
+		"custom:music/i_am_just_a_fish"]
+	},
+	"music.ashes_from_cures_what_ails_ya":{
+		"sounds": [
+		"custom:music/the_longest_johns-ashes_from_cures_what_ails_ya"]
+	},
+	"music.diggy_diggy_hole":{
+		"sounds": [
+		"custom:music/diggy_diggy_hole"]
+	},
+	"music.sinners_blues":{
+		"sounds": [
+		"custom:music/sinners_blues"]
+	},
+	"music.rise_up_dead_man":{
+		"sounds": [
+		"custom:music/rise_up_dead_man"]
+	},
+	"music.devil_in_the_churchyard":{
+		"sounds": [
+		"custom:music/devil_in_the_churchyard"]
+	},
+	"music.light_the_shadow":{
+		"sounds": [
+		"custom:music/light_the_shadow"]
+	},
+	"music.death_is_a_bird_flying":{
+		"sounds": [
+		"custom:music/death_is_a_bird_flying"]
+	},
+	"music.its_dark_in_new_orleans":{
+		"sounds": [
+		"custom:music/its_dark_in_new_orleans"]
+	},
+	"music.raise_your_voice_in_praise":{
+		"sounds": [
+		"custom:music/raise_your_voice_in_praise"]
+	},
+	"music.dark_is_rising":{
+		"sounds": [
+		"custom:music/dark_is_rising"]
+	},
+	"music.fallen_kingdom":{
+		"sounds": [
+		"custom:music/fallen_kingdom"]
+	},
+	"music.heres_a_health_to_the_company":{
+		"sounds": [
+		"custom:music/heres_a_health_to_the_company"]
+	},
+	"music.sweet_dreams":{
+		"sounds": [
+		"custom:music/eurythmics-sweet_dreams"]
+	},
+	"music.bells":{
+		"sounds": [
+		"custom:music/the_unlikely_candidates-bells"]
+	},
+	"music.oh_my_dear_lord":{
+		"sounds": [
+		"custom:music/the_unlikely_candidates-oh_my_dear_lord"]
+	},
+	"music.short_change_hero":{
+		"sounds": [
+		"custom:music/short_change_hero"]
+	},
+	"music.used_to_the_darkness":{
+		"sounds": [
+		"custom:music/des_rocs-used_to_the_darkness"]
+	},
+	"music.a_good_song_never_dies":{
+		"sounds": [
+		"custom:music/saint_motel-a_good_song_never_dies"]
+	},
+	"music.the_wolf":{
+		"sounds": [
+		"custom:music/siames-the_wolf"]
+	},
+	"music.h.y.c.y.bh":{
+		"sounds": [
+		"custom:music/h.y.c.y.bh"]
+	},
+	"music.frostpunk_theme":{
+		"sounds": [
+		"custom:music/frostpunk-theme"]
+	},
+	"music.outer_wilds":{
+		"sounds": [
+		"custom:music/outer_wilds"]
+	},
+	"music.timber_hearth":{
+		"sounds": [
+		"custom:music/timber_hearth"]
+	},
+	"music.final_voyage":{
+		"sounds": [
+		"custom:music/final_voyage"]
+	},
+	"music.the_river":{
+		"sounds": [
+		"custom:music/the_river"]
+	},
+	"music.elegy_for_the_rings":{
+		"sounds": [
+		"custom:music/elegy_for_the_rings"]
+	},
+	"music.travelers_encore":{
+		"sounds": [
+		"custom:music/travelers_encore"]
+	},
+	"music.hey_i_dont_work_here":{
+		"sounds": [
+		"custom:music/hey_i_dont_work_here"]
+	},
+	"music.why_am_i_anxious":{
+		"sounds": [
+		"custom:music/why_am_i_anxious"]
+	},
+	"music.till_i_collapse":{
+		"sounds": [
+		"custom:music/till_i_collapse"]
+	},
+	"music.lose_yourself":{
+		"sounds": [
+		"custom:music/lose_yourself"]
+	},
+	"music.bang":{
+		"sounds": [
+		"custom:music/ajr-bang"]
+	},
+	"music.burn_the_house_down":{
+		"sounds": [
+		"custom:music/ajr-burn_the_house_down"]
+	},
+	"music.sober_up":{
+		"sounds": [
+		"custom:music/ajr-sober_up"]
+	},
+	"music.welcome_to_the_internet":{
+		"sounds": [
+		"custom:music/welcome_to_the_internet"]
+	},
+	"music.i_was_the_sun":{
+		"sounds": [
+		"custom:music/i_was_the_sun"]
+	},
+	"music.how_you_like_me_now":{
+		"sounds": [
+		"custom:music/how_you_like_me_now"]
+	},
+	"music.surfacing":{
+		"sounds": [
+		"custom:music/surfacing"]
+	},
+	"music.synesthesia":{
+		"sounds": [
+		"custom:music/synesthesia"]
+	},
+	"music.i_got_this":{
+		"sounds": [
+		"custom:music/i_got_this"]
+	},
+	"music.through_the_halls_of_history":{
+		"sounds": [
+		"custom:music/through_the_halls_of_history"]
+	},
+	"music.negotiation":{
+		"sounds": [
+		"custom:music/negotiation"]
+	},
+	"music.still_alive":{
+		"sounds": [
+		"custom:music/still_alive"]
+	},
+	"music.want_you_gone":{
+		"sounds": [
+		"custom:music/want_you_gone"]
+	},
+	"music.cara_mia_addio":{
+		"sounds": [
+		"custom:music/cara_mia_addio"]
+	},
+	"music.still_alive_radio_mix":{
+		"sounds": [
+		"custom:music/still_alive_radio_mix"]
+	},
+	"music.tick_tock":{
+		"sounds": [
+		"custom:music/tick_tock"]
+	},
+	"music.time_window":{
+		"sounds": [
+		"custom:music/time_window"]
+	},
+	"music.calling_all_units":{
+		"sounds": [
+		"custom:music/calling_all_units"]
+	},
+	"music.fuse_box":{
+		"sounds": [
+		"custom:music/fuse_box"]
+	},
+	"music.night_springs":{
+		"sounds": [
+		"custom:music/night_springs"]
+	},
+	"music.where_are_we_going":{
+		"sounds": [
+		"custom:music/where_are_we_going"]
+	},
+	"music.where_are_we_going_2018":{
+		"sounds": [
+		"custom:music/where_are_we_going_2018"]
+	},
+	"music.close_to_the_sun":{
+		"sounds": [
+		"custom:music/close_to_the_sun"]
+	},
+	"music.at_dooms_gate":{
+		"sounds": [
+		"custom:music/at_dooms_gate"]
+	},
+	"music.rust_dust_and_guts":{
+		"sounds": [
+		"custom:music/rust_dust_and_guts"]
+	}
+}
+
+
+
+
+// Gunnar was here
+// Casper was here first
